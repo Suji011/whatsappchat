@@ -26,7 +26,7 @@ https://peppy-pithivier-dc5a7d.netlify.app/
 
 1. Clone the repository
 ```bash
-git clone [your-repository-url]
+git clone-(https://github.com/Suji011/whatsappchat.git)
 cd whatsapp-simulator
 ```
 
